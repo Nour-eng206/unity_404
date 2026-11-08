@@ -9,7 +9,7 @@
 .vs/
 .idea/
 .gradle/
-
+.vscode/
 *.csproj
 *.sln
 *.user
